@@ -7,6 +7,6 @@ Python, Ruby, PHP and Node command-line tools, preloaded.
 brew install anthonyGosme/speedrunner/speedrunner
 ```
 
-Linux for now (x86_64 and aarch64): the formula installs the release's static
-binary. The formula is maintained in the main repository
+macOS (Intel and Apple Silicon: the release's universal binary) and Linux
+(x86_64 and aarch64: its static binary). The formula is maintained in the main repository
 (`packaging/homebrew/speedrunner.rb`) and copied here at each release.
